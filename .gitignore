@@ -129,4 +129,5 @@ dmypy.json
 .pyre/
 
 git_ignore
+config.py
 .DS_Store
