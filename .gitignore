@@ -131,3 +131,7 @@ dmypy.json
 git_ignore
 config.py
 .DS_Store
+
+# working files to ignore
+random_numbers.ipynb
+API_practice.ipynb
